@@ -1,24 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7941501d-5795-406b-b835-c056df5a36fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/HackerRankGitHub.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Task.AVeryBigSum.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3Task.Staircase.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4Task.Breaking the Records.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5Task.CompareTheTriplets.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6Task.PluMinus.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7Task.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
