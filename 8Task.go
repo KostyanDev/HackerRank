@@ -7,8 +7,8 @@ func birthdayCakeCandles(candles []int) int {
 			max = val
 		}
 	}
-	for i = 0;i<len(candles);i++ {
-		if candles[i] == max {
+	for _,val := range candles {
+		if val == max {
 			returnValue++;
 		}
 	}
