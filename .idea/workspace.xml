@@ -1,12 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand />
-    <select />
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:origin/dev" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7941501d-5795-406b-b835-c056df5a36fb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/7Task.go" afterDir="false" />
+    <list default="true" id="7941501d-5795-406b-b835-c056df5a36fb" name="Default Changelist" comment="Camel Case">
+      <change afterPath="$PROJECT_DIR$/10Task.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +42,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="$USER_HOME$/sdk/go1.15" />
+  <component name="GOROOT" path="/usr/lib/go-1.13" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -36,11 +57,12 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="GO_FMT" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -51,16 +73,38 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/dev" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Birthday Cake Candles" />
+    <MESSAGE value="Birthday Cake Candles v2" />
+    <MESSAGE value="Birthday Cake Candles rename File" />
+    <MESSAGE value="Camel Case" />
+    <option name="LAST_COMMIT_MESSAGE" value="Camel Case" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2711" y="469" width="410" height="149" key="#GOROOT" timestamp="1600078075448">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2711" y="469" width="410" height="149" key="#GOROOT/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600078075448" />
     <state x="644" y="356" key="#Notifications" timestamp="1600010256304">
       <screen x="0" y="23" width="1920" height="1080" />
     </state>
@@ -69,5 +113,17 @@
       <screen x="0" y="23" width="1920" height="1080" />
     </state>
     <state x="608" y="334" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1080@0.23.1920.1080" timestamp="1600016434275" />
+    <state x="2699" y="298" width="424" height="491" key="FileChooserDialogImpl" timestamp="1600260961121">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2699" y="298" width="424" height="491" key="FileChooserDialogImpl/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600260961121" />
+    <state x="2511" y="272" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1600246831996">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2511" y="272" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600246831996" />
+    <state x="2579" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1600098464663">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2579" y="239" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600098464663" />
   </component>
 </project>
