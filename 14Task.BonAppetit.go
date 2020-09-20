@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/challenges/bon-appetit/problem
 func bonAppetit(bill []int32, k int32, b int32) {
 	var sum,moneyBack int32
 
