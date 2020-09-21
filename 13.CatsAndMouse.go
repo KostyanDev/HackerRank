@@ -7,15 +7,12 @@ func abs(n int32) int32 {
 	}
 }
 
-// Complete the catAndMouse function below.
 func catAndMouse(x int32, y int32, z int32) string {
 
-// Declare and initialize the variables
 	var distanceAtoC int32 = abs(x - z)
 	var distanseBtoC int32 = abs(y - z)
 	var returnValue string
 
-// Do the logic
 	if distanceAtoC < distanseBtoC {
 		returnValue = "Cat A"
 	} else if distanceAtoC > distanseBtoC {
@@ -24,5 +21,5 @@ func catAndMouse(x int32, y int32, z int32) string {
 		returnValue = "Mouse C"
 	}
 
-return sOutput
+return returnValue
 }
