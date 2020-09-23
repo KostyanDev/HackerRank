@@ -6,7 +6,6 @@ func designerPdfViewer(h []int32, word string) int32 {
 
 	for i := 1; i < len(word); i++ {
 		currentHeight = h[word[i] - 'a']
-		fmt.Println(currentHeight)
 		if currentHeight > maxHeight {
 			maxHeight = currentHeight
 		}
