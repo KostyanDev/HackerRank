@@ -1,3 +1,4 @@
+// https://www.hackerrank.com/challenges/day-of-the-programmer/problem
 package main
 
 import "strconv"
