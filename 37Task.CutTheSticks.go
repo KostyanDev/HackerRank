@@ -1,10 +1,8 @@
 //https://www.hackerrank.com/challenges/cut-the-sticks/problem
 func cutTheSticks(arr []int32) []int32 {
 
-	// Declare and initialize the variables
 	var returnValue []int32
 
-	// Do the loop
 	for len(arr) > 0 {
 		returnValue = append(returnValue, int32(len(arr)))
 
