@@ -27,7 +27,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7941501d-5795-406b-b835-c056df5a36fb" name="Default Changelist" comment="Camel Case">
-      <change afterPath="$PROJECT_DIR$/10Task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/41Task.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/42Task.JumpingOnTheClouds.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="GOROOT" path="/usr/lib/go-1.13" />
+  <component name="GOROOT" path="$USER_HOME$/sdk/go1.15.2" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -101,14 +102,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="Camel Case" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2711" y="469" width="410" height="149" key="#GOROOT" timestamp="1600078075448">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="593" y="379" width="406" height="126" key="#GOROOT" timestamp="1602493991883">
+      <screen x="0" y="23" width="1440" height="819" />
     </state>
+    <state x="593" y="379" width="406" height="126" key="#GOROOT/0.23.1440.819@0.23.1440.819" timestamp="1602493991883" />
     <state x="2711" y="469" width="410" height="149" key="#GOROOT/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600078075448" />
     <state x="644" y="356" key="#Notifications" timestamp="1600010256304">
       <screen x="0" y="23" width="1920" height="1080" />
     </state>
     <state x="644" y="356" key="#Notifications/0.23.1920.1080@0.23.1920.1080" timestamp="1600010256304" />
+    <state x="184" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602750723569">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="184" y="94" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.819@0.23.1440.819" timestamp="1602750723569" />
     <state x="608" y="334" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600016434275">
       <screen x="0" y="23" width="1920" height="1080" />
     </state>
@@ -121,9 +127,14 @@
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
     <state x="2511" y="272" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600246831996" />
-    <state x="2579" y="239" width="672" height="678" key="search.everywhere.popup" timestamp="1600098464663">
-      <screen x="1920" y="0" width="1920" height="1080" />
+    <state x="518" y="353" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602576036362">
+      <screen x="0" y="23" width="1440" height="819" />
     </state>
+    <state x="518" y="353" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.819@0.23.1440.819" timestamp="1602576036362" />
+    <state x="494" y="204" width="670" height="515" key="search.everywhere.popup" timestamp="1602516952227">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="494" y="204" width="670" height="515" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1602516952227" />
     <state x="2579" y="239" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1600098464663" />
   </component>
 </project>
