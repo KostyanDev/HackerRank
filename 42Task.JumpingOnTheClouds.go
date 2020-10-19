@@ -5,7 +5,7 @@ func jumpingOnClouds(c []int32) int32 {
 
 	var i int = 0
 	var returnValue int32 = 0
-	
+
 	for i < len(c) {
 		if i + 2 < len(c) {
 			if c[i + 2] == 0 {
