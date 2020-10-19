@@ -27,9 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7941501d-5795-406b-b835-c056df5a36fb" name="Default Changelist" comment="Camel Case">
-      <change afterPath="$PROJECT_DIR$/41Task.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/42Task.JumpingOnTheClouds.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/42Task.JumpingOnTheClouds.go" beforeDir="false" afterPath="$PROJECT_DIR$/42Task.JumpingOnTheClouds.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
